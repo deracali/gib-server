@@ -7,7 +7,7 @@ import cors from "cors";
 import applicationRoutes from "./routes/ApplicationRoute.js";
 import courseRoutes from "./routes/CoursesRoute.js";
 import studentRoutes from "./routes/StudentsRoute.js";
-import staffRoutes from "./routes/staffRoute.js";
+import staffRoutes from "./routes/StaffRoute.js";
 import siteSettingsRoutes from "./routes/SiteRoute.js";
 import paymentRoutes from "./routes/payment.js";
 import chatRoutes from './routes/messageRoute.js';
