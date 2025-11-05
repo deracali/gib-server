@@ -6,7 +6,7 @@ import {
   updateStaff,
   deleteStaff,
   staffLogin,
-} from "../controllers/staffController.js";
+} from "../controllers/StaffController.js";
 
 const staffRoutes = express.Router();
 
